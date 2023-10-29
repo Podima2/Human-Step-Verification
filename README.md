@@ -1,6 +1,6 @@
 # ETH_LONDON
  
-# Discord Bot for Rarimo's Proof of Humanity Verification
+# Human-Step-Verification
 
 ## Table of Contents
 
